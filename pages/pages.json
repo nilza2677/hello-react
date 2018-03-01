@@ -1,0 +1,12 @@
+{
+  "pages": {
+    "index": {
+      "path": "/index"
+    }
+  },
+  "extensions": {
+    "index": {
+      "component": "index"
+    }
+  }
+}
