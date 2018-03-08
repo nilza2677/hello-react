@@ -1,11 +1,11 @@
 {
   "pages": {
-    "index": {
-      "path": "/index"
+    "hello-react": {
+      "path": "/hello-react"
     }
   },
   "extensions": {
-    "index": {
+    "hello-react": {
       "component": "index"
     }
   }

@@ -13,6 +13,6 @@
   "dependencies": {},
   "builders": {
     "pages": "0.x",
-    "react": "1.x"
+    "react": "2.x"
   }
 }
