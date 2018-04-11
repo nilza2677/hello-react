@@ -1,12 +1,14 @@
 {
   "name": "hello-react",
   "vendor": "vtex",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "title": "Hello React",
   "description": "App for creating a minimal React setup for VTEX IO",
   "mustUpdateAt": "2019-03-01",
   "categories": [],
-  "registries": ["smartcheckout"],
+  "registries": [
+    "smartcheckout"
+  ],
   "scripts": {
     "postreleasy": "vtex publish --verbose"
   },
