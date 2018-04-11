@@ -6,9 +6,10 @@
   "description": "App for creating a minimal React setup for VTEX IO",
   "mustUpdateAt": "2019-03-01",
   "categories": [],
-  "registries": [
-    "smartcheckout"
-  ],
+  "registries": ["smartcheckout"],
+  "scripts": {
+    "postreleasy": "vtex publish --verbose"
+  },
   "settingsSchema": {},
   "dependencies": {},
   "builders": {
