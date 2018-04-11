@@ -1,7 +1,7 @@
 {
   "name": "hello-react",
   "vendor": "vtex",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "title": "Hello React",
   "description": "App for creating a minimal React setup for VTEX IO",
   "mustUpdateAt": "2019-03-01",
